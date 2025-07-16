@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\240466\\TGS\\TgsGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|d:\\240466\\tgs\\tgsgame\\assets\\script\\gameoverselct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameoverselct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\goalselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goalselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|d:\\240466\\tgs\\tgsgame\\assets\\script\\retryselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\retryselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\goalscoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goalscoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\goal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\menuselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menuselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\font\\japanese_characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\font\\japanese_characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\newmonobehaviourscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\newmonobehaviourscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\itemmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\retrybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\retrybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\enemymove2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymove2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\enemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\enemymove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\fog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|D:\\240466\\TGS\\TgsGame\\assets\\script\\waterflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91D53C-F7F0-40F6-1E62-B2C4D40612E7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\waterflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerHP.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\PlayerHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerHP.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\PlayerHP.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerHP.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:39:43.962Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemMove.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\ItemMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ItemMove.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\ItemMove.cs",
+              "RelativeToolTip": "Assets\\Script\\ItemMove.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:38:01.635Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOverselct.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\GameOverselct.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOverselct.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\GameOverselct.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOverselct.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:55:39.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goalselector.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Goalselector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Goalselector.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Goalselector.cs",
+              "RelativeToolTip": "Assets\\Script\\Goalselector.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:23:51.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RetrySelect.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\RetrySelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RetrySelect.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\RetrySelect.cs",
+              "RelativeToolTip": "Assets\\Script\\RetrySelect.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:21:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Goal1.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Goal1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Goal1.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Goal1.cs",
+              "RelativeToolTip": "Assets\\Script\\Goal1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:15:15.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "japanese_characters.txt",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Font\\japanese_characters.txt",
+              "RelativeDocumentMoniker": "Assets\\Font\\japanese_characters.txt",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Font\\japanese_characters.txt",
+              "RelativeToolTip": "Assets\\Font\\japanese_characters.txt",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-25T05:35:48.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewMonoBehaviourScript1.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\NewMonoBehaviourScript1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NewMonoBehaviourScript1.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\NewMonoBehaviourScript1.cs",
+              "RelativeToolTip": "Assets\\Script\\NewMonoBehaviourScript1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:01:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuSelector.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\MenuSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MenuSelector.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\MenuSelector.cs",
+              "RelativeToolTip": "Assets\\Script\\MenuSelector.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwC8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:49:13.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoalScoreDisplay.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\GoalScoreDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoalScoreDisplay.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\GoalScoreDisplay.cs",
+              "RelativeToolTip": "Assets\\Script\\GoalScoreDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:55:31.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Fog.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Fog.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Fog.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Fog.cs",
+              "RelativeToolTip": "Assets\\Script\\Fog.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:06:33.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WaterFlow.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\WaterFlow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaterFlow.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\WaterFlow.cs",
+              "RelativeToolTip": "Assets\\Script\\WaterFlow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:05:52.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyMove3.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\EnemyMove3.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyMove3.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\EnemyMove3.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyMove3.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:07:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UV.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\UV.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UV.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\UV.cs",
+              "RelativeToolTip": "Assets\\Script\\UV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:56:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyMove2.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\EnemyMove2.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyMove2.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\EnemyMove2.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyMove2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:13:31.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnemyMove.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\EnemyMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyMove.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\EnemyMove.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:13:07.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:48:21.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "goal.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\goal.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\goal.cs",
+              "RelativeToolTip": "Assets\\Script\\goal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:40:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Enemy\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\enemy.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\Enemy\\enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\enemy.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:03:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HP.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\HP.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HP.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\HP.cs",
+              "RelativeToolTip": "Assets\\Script\\HP.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:40:47.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScoreManager.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:03:27.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RetryButton.cs",
+              "DocumentMoniker": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\RetryButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RetryButton.cs",
+              "ToolTip": "D:\\240466\\TGS\\TgsGame\\Assets\\Script\\RetryButton.cs",
+              "RelativeToolTip": "Assets\\Script\\RetryButton.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:56:11.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
