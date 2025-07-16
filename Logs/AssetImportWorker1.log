@@ -15,7 +15,7 @@ D:/240466/TGSgame
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-52925
+61556
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,12 +59,12 @@ D:/240466/TGSgame
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [21384]  Target information:
+Player connection [21644]  Target information:
 
-Player connection [21384]  * "[IP] 192.168.44.21 [Port] 0 [Flags] 2 [Guid] 2028015004 [EditorId] 2028015004 [Version] 1048832 [Id] WindowsEditor(7,E0405-29) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [21644]  * "[IP] 192.168.44.21 [Port] 0 [Flags] 2 [Guid] 3403759357 [EditorId] 3403759357 [Version] 1048832 [Id] WindowsEditor(7,E0405-29) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [21384] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [21384] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [21644] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [21644] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -92,45 +92,45 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56064
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.011474 seconds.
-- Loaded All Assemblies, in  0.775 seconds
+Registered in 0.009782 seconds.
+- Loaded All Assemblies, in  0.815 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.357 seconds
-Domain Reload Profiling: 1126ms
-	BeginReloadAssembly (377ms)
+- Finished resetting the current domain, in  0.417 seconds
+Domain Reload Profiling: 1228ms
+	BeginReloadAssembly (393ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (58ms)
-	RebuildNativeTypeToScriptingClass (15ms)
-	initialDomainReloadingComplete (66ms)
-	LoadAllAssembliesAndSetupDomain (253ms)
-		LoadAssemblies (376ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (272ms)
+		LoadAssemblies (392ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (245ms)
-			TypeCache.Refresh (244ms)
-				TypeCache.ScanAssembly (223ms)
+		AnalyzeDomain (263ms)
+			TypeCache.Refresh (261ms)
+				TypeCache.ScanAssembly (238ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (357ms)
+	FinalizeReload (418ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (321ms)
+		SetupLoadedEditorAssemblies (372ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (23ms)
+			InitializePlatformSupportModulesInManaged (25ms)
 			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (61ms)
-			ProcessInitializeOnLoadAttributes (171ms)
-			ProcessInitializeOnLoadMethodAttributes (61ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (204ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -139,57 +139,57 @@ Domain Reload Profiling: 1126ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.553 seconds
+- Loaded All Assemblies, in  0.544 seconds
 Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.383 seconds
-Domain Reload Profiling: 930ms
-	BeginReloadAssembly (431ms)
+- Finished resetting the current domain, in  0.386 seconds
+Domain Reload Profiling: 926ms
+	BeginReloadAssembly (428ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (6ms)
+		DisableScriptedObjects (7ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (33ms)
-	RebuildCommonClasses (55ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (53ms)
 	RebuildNativeTypeToScriptingClass (14ms)
-	initialDomainReloadingComplete (28ms)
+	initialDomainReloadingComplete (25ms)
 	LoadAllAssembliesAndSetupDomain (19ms)
-		LoadAssemblies (361ms)
+		LoadAssemblies (355ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
 		AnalyzeDomain (10ms)
-			TypeCache.Refresh (7ms)
+			TypeCache.Refresh (6ms)
 				TypeCache.ScanAssembly (2ms)
 			BuildScriptInfoCaches (1ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (383ms)
+	FinalizeReload (386ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (251ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (3ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (70ms)
+			BeforeProcessingInitializeOnLoad (69ms)
 			ProcessInitializeOnLoadAttributes (138ms)
 			ProcessInitializeOnLoadMethodAttributes (30ms)
-			AfterProcessingInitializeOnLoad (7ms)
+			AfterProcessingInitializeOnLoad (8ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 68 unused Assets / (36.5 KB). Loaded Objects now: 565.
-Memory consumption went from 53.6 MB to 53.6 MB.
-Total: 5.740200 ms (FindLiveObjects: 0.049400 ms CreateObjectMapping: 0.006000 ms MarkObjects: 5.566700 ms  DeleteObjects: 0.117000 ms)
+Unloading 82 unused Assets / (36.5 KB). Loaded Objects now: 579.
+Memory consumption went from 53.7 MB to 53.7 MB.
+Total: 3.803500 ms (FindLiveObjects: 0.047800 ms CreateObjectMapping: 0.006700 ms MarkObjects: 3.677200 ms  DeleteObjects: 0.070700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5675.786132 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(4c3223bb515bdde4d8b4cefc9aee5fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(4c3223bb515bdde4d8b4cefc9aee5fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3672f368011d80b0b6d13c7915941620') in 0.0081721 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+  Time since last request: 5980.565968 seconds.
+  path: Assets/basu.fbx
+  artifactKey: Guid(07d8e67a33bdfd840b6165311aae95a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/basu.fbx using Guid(07d8e67a33bdfd840b6165311aae95a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a8e18b5f99a9dae37980f0723cf136a') in 0.622274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
 
